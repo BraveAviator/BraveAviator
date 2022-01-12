@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BraveAviator
 - 👀 I’m interested in Aviation, astronomy and music.
-- 🌱 I’m currently learning Chemistry, HTML, CSS and JS.
+- 🌱 I’m currently learning Chemistry, HTML, CSS, JS and Java
 - 💞️ I’m looking to collaborate on Website Design
 - 📫 How to reach me IDK
 
