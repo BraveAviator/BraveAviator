@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BraveAviator
-- Student pilot for my private pilots license
+- 🛫 Student pilot for my private pilots license
 - 👀 I’m interested in Aviation, astronomy and music.
 - 🌱 I’m currently learning Chemistry, HTML, CSS, JS and Java
 - 💞️ I’m looking to collaborate on Website Design
